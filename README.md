@@ -1,7 +1,7 @@
 # ⚽ Football Team Card — JavaScript | HTML | CSS
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="620" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="620" />
 </p>
 
 A dynamic, responsive, and visually appealing **Football Team Card UI** built using **HTML**, **CSS**, and **JavaScript**. This project displays football player details with animations, hover effects, and interactive elements — perfect for portfolios and UI showcases.

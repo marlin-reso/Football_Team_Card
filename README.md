@@ -29,21 +29,6 @@ A dynamic, responsive, and visually appealing **Football Team Card UI** built us
 | **JavaScript** | Dynamic card creation & interactivity          |
 
 ---
-
-## 📁 Folder Structure
-
-```
-Football-Team-Card/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── players/
-│   └── icons/
-└── README.md
-```
-
 ---
 
 ## 🧩 Example Code Snippet

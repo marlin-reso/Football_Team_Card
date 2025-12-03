@@ -9,12 +9,12 @@ A dynamic, responsive, and visually appealing **Football Team Card UI** built us
 ## ⭐ Features
 
 ✔ Player photo, name, jersey number, and position card.
-✔ Smooth hover animations
-✔ Flip-card or sliding reveal animation (based on your design)
-✔ Responsive layout (mobile + desktop)
-✔ Clean card UI with gradients and shadows
-✔ Dynamic data loading using JavaScript
-✔ Animated background inspired by football graphics
+✔ Smooth hover animations.
+✔ Flip-card or sliding reveal animation (based on your design).
+✔ Responsive layout (mobile + desktop).
+✔ Clean card UI with gradients and shadows.
+✔ Dynamic data loading using JavaScript.
+✔ Animated background inspired by football graphics.
 
 ---
 

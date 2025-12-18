@@ -92,10 +92,10 @@ open index.html
 
 ## 🎨 Optional Enhancements
 
-✨ Add card flip animation
-✨ Add player stats popup
-✨ Add team switcher carousel
-✨ Add background football stadium animation
+✨ Add card flip animation.
+✨ Add player stats popup.
+✨ Add team switcher carousel.
+✨ Add background football stadium animation.
 ✨ Add audio cheer sound on hover
 
 ---

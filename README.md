@@ -96,7 +96,7 @@ open index.html
 ✨ Add player stats popup.
 ✨ Add team switcher carousel.
 ✨ Add background football stadium animation.
-✨ Add audio cheer sound on hover
+✨ Add audio cheer sound on hover.
 
 ---
 
